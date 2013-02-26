@@ -1,4 +1,4 @@
-# Ozone Metrics 
+# Ozone Metrics [![Build Status](https://travis-ci.org/ntabernero/metrics.png)](https://travis-ci.org/ntabernero/metrics)
  
 ## Description
 
